@@ -4,7 +4,7 @@
 
 - 🌹 I am a Java learner and have been studying for almost a year now 😄.
 
-- 🏡 作品： <a href="[AlfonsoKevin/Kai-Project: 基于SpringBoot的快速开发的模板，致力于快速上手开发SpringBoot项目](https://github.com/AlfonsoKevin/Kai-Project/tree/main)" target="_blank">凯の快速开发SpringBoot项目的脚手架⭐</a>
+- 🏡 作品： <a href="https://github.com/AlfonsoKevin/Kai-Project" target="_blank">凯の快速开发SpringBoot项目的脚手架⭐</a>
 - :pencil: 博客：[MyBlog💬](https://www.mynow.top/) - 是我一点点生活笔记啦，你能发现宝藏吗？🤔
 
 ### ✨ 我的技能(my skills)   
