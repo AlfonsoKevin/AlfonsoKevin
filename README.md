@@ -1,59 +1,43 @@
-## 我是AlfonsoKevin/凯凯/Async
+<!-- -->
 
-- It seems like I've given myself many aliases..🤔
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THEME!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20AlfonsoKevin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-- 🌹 I am a Java learner and have been studying for almost a year now 😄.
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" height=200 /> </a>
 
-- 🏡 作品： <a href="https://github.com/AlfonsoKevin/Kai-Project" target="_blank">凯の快速开发SpringBoot项目的脚手架⭐</a>
-- :pencil: 博客：[MyBlog💬](https://www.mynow.top/) - 是我一点点生活笔记啦，你能发现宝藏吗？🤔
+<p align="center" >
 
-### ✨ 我的技能(my skills)   
+  <a href="https://github.com/AlfonsoKevin">  
+    <img src="https://github-readme-stats.vercel.app/api/?username=AlfonsoKevin&layout=compact&border_radius=20" width="400"  alt="GitHub Stats" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoKevin&layout=compact&border_radius=20" width=400 alt="Top Languages"/>
+  </a>
 
-![Static Badge](https://img.shields.io/badge/-c-%23A8B9CC?style=flat-square&logo=c&logoColor=fff) 
+</p>
 
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff) 
 
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)  
-
-![](https://img.shields.io/badge/-Thymeleaf-%23005F0F?style=flat-square&logo=Thymeleaf&logoColor=fff) 
-
-![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff) 
-
-![](https://img.shields.io/badge/-SpringMVC-%236DB33F?style=flat-square&logo=Spring&logoColor=fff) 
-
-![](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat-square&logo=SpringBoot&logoColor=fff)  
-
-![Static Badge](https://img.shields.io/badge/-Mybatis-important?style=flat-square&logo=Mybatis&logoColor=fff) 
-
-![](https://img.shields.io/badge/-MybatisPlus-critical?style=flat-square&logo=Mybatis-plus&logoColor=fff) 
-
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) 
-
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff) 
-
-![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff) 
+<p align="center">
+    <a href="https://github.com/AlfonsoKevin">
+    <img src="https://streak-stats.demolab.com?user=AlfonsoKevin&theme=transparent&hide_border=false%C2%A0%C2%A0%E5%81%87&short_numbers=false%C2%A0%C2%A0%E5%81%87&card_width=595&card_height=234" height="400"  alt="GitHub Streak" />
+    </a>
+</p>
 
 
 
-## 今年汇总(This year's summary) ✨
+<p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AlfonsoKevin&theme=github-compact&hide_border=true&area=true&from=2024-06-01&to=2024-12-31&grid=false&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p> 
 
 
 
+<p align="center">
+	<img align="center" src="https://skillicons.dev/icons?i=idea,java,mysql,redis,spring,rocket,html,css,js,react,linux,py,c,clion,docker,md,stackoverflow&theme=light" />    
+</p>
 
-### 开发的项目(developed projects)
-
-- 业务项目(business projects)
-  - SpringBoot-Kai-Project-cli（The first project I recently worked on can be considered a formal release, please follow me!🥳） 
-  - Are you looking forward to some that haven't been displayed yet?😉
-
-
-
-
-### 🎉 Get in touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/AlfonsoKevin)
-
-### 交个朋友 👬🏻
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>It seems that my English is not very good, and I am working hard to learn🔭
+<p align="center">
+    <a href="https://github.com/AlfonsoKevin"></a><img src="https://img.shields.io/badge/GitHub-grey?logo=github" />
+</p>
 
