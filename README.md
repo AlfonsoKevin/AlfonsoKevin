@@ -14,7 +14,6 @@
   <a href="https://www.kaijavademo.top/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoKevin&layout=compact&border_radius=20" width=400 alt="Top Languages"/>
   </a>
-
 </p>
 
 
@@ -38,7 +37,9 @@
 </p>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
     <a href="https://github.com/AlfonsoKevin"></a><img src="https://img.shields.io/badge/GitHub-grey?logo=github" />
 </p>
-
