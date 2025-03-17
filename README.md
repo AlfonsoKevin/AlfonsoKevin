@@ -4,7 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THEME!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20AlfonsoKevin!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
     <a align="center" href="https://www.kaijavademo.top/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile+page!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" height=200 /> </a>
 </p>
-![snake](https://raw.githubusercontent.com/AlfonsoKevin/AlfonsoKevin/output/github-contribution-grid-snake.svg)
+![AlfonsoKevin's github activity graph](https://github.com/AlfonsoKevin/AlfonsoKevin/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <p align="center" >
