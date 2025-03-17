@@ -7,8 +7,6 @@
 ![snake](https://raw.githubusercontent.com/AlfonsoKevin/AlfonsoKevin/output/github-contribution-grid-snake.svg)
 
 
-
-
 <p align="center" >
   <a href="https://github.com/AlfonsoKevin">  
     <img src="https://github-readme-stats.vercel.app/api/?username=AlfonsoKevin&layout=compact&border_radius=20" width="400"  alt="GitHub Stats" />
