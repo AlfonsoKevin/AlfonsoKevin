@@ -40,13 +40,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 216 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,19 +83,19 @@ Sunday                   315 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 19 mins       █████████████████████████   99.02 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Java                     2 hrs 56 mins       █████████████████████████   98.92 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 20 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-big-market               1 hr 31 mins        ████████████████░░░░░░░░░   65.13 % 
-jvm                      35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-algorithm                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+big-market               1 hr 39 mins        ██████████████░░░░░░░░░░░   55.52 % 
+my-proxy-learning        56 mins             ████████░░░░░░░░░░░░░░░░░   31.55 % 
+algorithm                23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +112,7 @@ Shell                    2 repos             ██████████░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AlfonsoKevin/AlfonsoKevin/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 18:44:35 UTC
+ Last Updated on 26/03/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
