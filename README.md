@@ -40,13 +40,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 405 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,45 +54,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                832 commits         ████████░░░░░░░░░░░░░░░░░   33.24 % 
-🌆 Daytime                757 commits         ████████░░░░░░░░░░░░░░░░░   30.24 % 
-🌃 Evening                683 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                377 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Friday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Saturday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Sunday                   373 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -107,7 +68,7 @@ Shell                    2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AlfonsoKevin/AlfonsoKevin/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:45:39 UTC
+ Last Updated on 02/05/2025 18:44:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
