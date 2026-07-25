@@ -40,18 +40,61 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2010%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 627 Contributions in the Year 2026
+> 🏆 631 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1288 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌆 Daytime                1151 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                771 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌙 Night                  714 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   553 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  541 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Wednesday                580 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Thursday                 582 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Friday                   563 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Saturday                 532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Sunday                   573 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Java                     5 mins              ███████████████░░░░░░░░░░   60.05 % 
+XML                      3 mins              ██████████░░░░░░░░░░░░░░░   38.47 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+
+🔥 Editors: 
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+hmall                    8 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -66,7 +109,7 @@ Shell                    2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AlfonsoKevin/AlfonsoKevin/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:53:22 UTC
+ Last Updated on 25/07/2026 19:40:49 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
